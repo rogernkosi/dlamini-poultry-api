@@ -2,45 +2,41 @@
     "promotion":false,
     "family_items":[
        {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm1.jpeg",
           "id":0
        },
        {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm10.jpeg",
           "id":0
        },
        {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm3.jpeg",
           "id":0
        },
        {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm4.jpeg",
           "id":0
        },
        {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm54.jpeg",
           "id":0
        }
     ],
     "bulk_items":[
        {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm6.jpeg",
           "id":0
        },
        {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm7.jpeg",
           "id":0
        },
        {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm8.jpeg",
           "id":0
        },
        {
-          "image_uri":"",
-          "id":0
-       },
-       {
-          "image_uri":"",
+          "image_uri":"https://raw.githubusercontent.com/rogernkosi/dlamini-poultry-api/gh-pages/farm9.jpeg",
           "id":0
        }
     ],
